@@ -1,4 +1,4 @@
-# -Capstone-Project-for-PennDOT
+# Capstone-Project-for-PennDOT
 •	Investigated the critical elements & key reasons behind death or severe injury for bicyclists.
 
 •	Conducted in-depth analysis using Python and Tableau on 5 years of PennDOT crash data, revealing time series trends and geographic patterns related to bicyclist fatalities and injuries.
